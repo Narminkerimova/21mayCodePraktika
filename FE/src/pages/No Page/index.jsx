@@ -1,12 +1,12 @@
-import React from 'react'
+import React from "react";
 
 function NoPage() {
   return (
- <>
- <title>No Page</title>
-No Page 404
- </>
-  )
+    <>
+      <title>No Page</title>
+      No Page 404
+    </>
+  );
 }
 
-export default NoPage
+export default NoPage;
